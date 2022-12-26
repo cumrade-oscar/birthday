@@ -1,0 +1,107 @@
+body{
+    text-align: center;
+    background-color: lightsalmon;
+}
+#bday-age {
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 5px 0 10px 0;
+}
+#bff-img {
+    border: 2px solid black;
+    border-radius: 50%;
+    width: 200px;
+    height: auto;
+
+}
+
+
+#bday-date {
+    margin: 0;
+    background: #EFB0C9;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gift-section {
+    margin-top: 50px;
+}
+
+.gift-title {
+    margin-bottom: 10px;
+}
+
+.gift-hint {
+    margin-top: 0;
+}
+
+
+
+
+.gift-img {
+    margin: 20px auto;
+    max-width: 400px;
+    height: 400px;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("gift.jpg");
+    background-size: cover;
+}
+#here{
+    font-style: italic;
+    border: 1px dotted pink;
+}
+#gift-img-genius{
+    height: 250px;;
+}
+
+#gift-img-happy:hover {
+    background-image: url("IMG-20221226-WA0007.jpg");
+}
+
+#gift-img-hot:hover {
+    background-image: url("https://media.tenor.com/Nbv1SysxlrUAAAAM/heavenly-joy-jerkins-i-am-so-excited.gif");
+}
+
+#gift-img-genius:hover {
+    background-image: url("https://media.tenor.com/0LMtYdiTqEsAAAAM/pure-genius-smart.gif");
+}
+
+#gift-img-badass:hover {
+    background-image: url("https://media.tenor.com/e_Ol2BiZHyEAAAAM/you-parks-and-recreation.gif");
+}
+
+#gift-img-cheers:hover {
+    background-image: url("https://i.pinimg.com/originals/b1/6f/e7/b16fe788926ee503e09a753d235f3966.gif");
+
+}
+#videos{
+    
+    border: 2px solid black;
+    border-radius: 12px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22px;;
+}
+
+    
+    
+
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: white;
+}
